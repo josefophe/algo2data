@@ -9,7 +9,7 @@ Algorand Web/Mobile Wallet Interface Using Reach and React to Connect to My Algo
 ## Member 
 Joseph Ebin and Blessing Ebin
 
-## Project Overviews
+## Project Overview
 
 Algo2Aritime/Algo2Data is a solution that helps bring crypto to a mass exposure to smartphone users in Africa as data is one important factor every smartphone users consume therefore having an alternative to purchase it via algo tokens will bring mass adoption and exposure of the algorand blockchain users to the space. As the demand of data is increasing gradually adding this feature to the algo wallet will give room for non web3 users to adopt this technology as it will serve their need.
 
@@ -37,7 +37,7 @@ Connecting to a wallet is one important requirements most DApp developers will h
 - open a terminal cd to the reach-react folder
 - From there run the command npm install
 - once that has completed  cd src
-- Run the curl https://raw.githubusercontent.com/reach-sh/reach-lang/master/reach -o reach ; chmod +x reach command to download reach into the src folder
+- Run the `curl https://raw.githubusercontent.com/reach-sh/reach-lang/master/reach -o reach ; chmod +x reach` command to download reach into the src folder
 - Run the ./reach version command to ensure it installed
 - Run the REACH_CONNECTOR_MODE=ALGO ./reach devnet command to start the testnet
 - Start up a new terminal and navigate to the reach-react folder
