@@ -9,7 +9,7 @@ Algorand Web/Mobile Wallet Interface Using Reach and React to Connect to My Algo
 ## Member 
 Joseph Ebin and Blessing Ebin
 
-## Project Overview
+## Project Overviews
 
 Algo2Aritime/Algo2Data is a solution that helps bring crypto to a mass exposure to smartphone users in Africa as data is one important factor every smartphone users consume therefore having an alternative to purchase it via algo tokens will bring mass adoption and exposure of the algorand blockchain users to the space. As the demand of data is increasing gradually adding this feature to the algo wallet will give room for non web3 users to adopt this technology as it will serve their need.
 
